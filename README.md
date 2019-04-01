@@ -8,3 +8,5 @@
 #3: [net core: launchsettings.json config demo](https://github.com/cnfanhua/Q-A/issues/3)
 
 #4: [oracle: 空表和密码过期问题](https://github.com/cnfanhua/Q-A/issues/4)
+
+#5: [vs key](https://github.com/cnfanhua/Q-A/issues/5)
