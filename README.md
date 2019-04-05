@@ -10,3 +10,5 @@
 #4: [oracle: 空表和密码过期问题](https://github.com/cnfanhua/Q-A/issues/4)
 
 #5: [vs key](https://github.com/cnfanhua/Q-A/issues/5)
+
+#6: [linux: 杀死进程](https://github.com/cnfanhua/Q-A/issues/6)
