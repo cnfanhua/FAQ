@@ -13,4 +13,6 @@
 
 #6: [linux: 杀死进程](https://github.com/cnfanhua/Q-A/issues/6)
 
-#7：[H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
+#6: [H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
+
+
