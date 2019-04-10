@@ -15,4 +15,5 @@
 
 #6: [H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
 
+#6: [Vuejs与boostrap-datetimepicker结合使用v-model无法工作的问题](https://github.com/cnfanhua/Q-A/issues/8)
 
