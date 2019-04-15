@@ -13,7 +13,9 @@
 
 #6: [linux: 杀死进程](https://github.com/cnfanhua/Q-A/issues/6)
 
-#6: [H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
+#7: [H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
 
-#6: [Vuejs与boostrap-datetimepicker结合使用v-model无法工作的问题](https://github.com/cnfanhua/Q-A/issues/8)
+#8: [Vuejs与boostrap-datetimepicker结合使用v-model无法工作的问题](https://github.com/cnfanhua/Q-A/issues/8)
+
+#9: [H+框架: 关闭新选项卡](https://github.com/cnfanhua/Q-A/issues/9)  关联 [H+框架: 打开新选项卡](https://github.com/cnfanhua/Q-A/issues/7)
 
