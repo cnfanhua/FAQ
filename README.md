@@ -22,3 +22,5 @@
 #10: [jqgrid 绑定行点击事件](https://github.com/cnfanhua/Q-A/issues/10)
 
 #11: [windows 快速删除文件命令](https://github.com/cnfanhua/Q-A/issues/11)
+
+#12: [oracle: 基于时间点查询所有数据(包含已删除的数据)](https://github.com/cnfanhua/Q-A/issues/12)
