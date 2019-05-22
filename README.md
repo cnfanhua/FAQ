@@ -26,3 +26,5 @@
 #12: [oracle: 基于时间点查询所有数据(包含已删除的数据)](https://github.com/cnfanhua/Q-A/issues/12)
 
 #13: [Asp.Net 过滤器执行顺序](https://github.com/cnfanhua/Q-A/issues/13)
+
+#14: [Error 405 – Methods not Allowed in ASP.NET Core PUT and DELETE requests](https://github.com/cnfanhua/Q-A/issues/14)
