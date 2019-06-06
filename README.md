@@ -28,3 +28,5 @@
 #13: [Asp.Net 过滤器执行顺序](https://github.com/cnfanhua/Q-A/issues/13)
 
 #14: [Error 405 – Methods not Allowed in ASP.NET Core PUT and DELETE requests](https://github.com/cnfanhua/Q-A/issues/14)
+
+#14: [重置Resilio Sync web端密码](https://github.com/cnfanhua/Q-A/issues/15)
