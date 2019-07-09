@@ -31,6 +31,6 @@
 
 #15: [重置Resilio Sync web端密码](https://github.com/cnfanhua/Q-A/issues/15)
 
-#16: [jQuery Post: url中中文乱码的解决方案](https://github.com/cnfanhua/Q-A/issues/16)
+#16: [jQuery Post: IE下 url中中文乱码的解决方案](https://github.com/cnfanhua/Q-A/issues/16)
 
 
