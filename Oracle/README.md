@@ -4,4 +4,4 @@
 
 [Oracle:创建删除用户与表空间](https://github.com/cnfanhua/Q-A/issues/17)
 
-[导出、导入表数据](/Exp-Imp.md)
+[导出、导入表数据](/Oracle/Exp-Imp.md)
