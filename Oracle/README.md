@@ -3,3 +3,5 @@
 [oracle: 基于时间点查询所有数据(包含已删除的数据)](https://github.com/cnfanhua/Q-A/issues/12)
 
 [Oracle:创建删除用户与表空间](https://github.com/cnfanhua/Q-A/issues/17)
+
+[导出、导入表数据](https://github.com/cnfanhua/Q-A/Oracle/Exp-Imp.md)
