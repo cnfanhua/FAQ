@@ -1,7 +1,23 @@
-[net core: global dotnet tools not found on zsh](https://github.com/cnfanhua/Q-A/issues/2)
+#### 4、net core: global dotnet tools not found on zsh（manjaro）
+```c
+修改~/.zshrc 增加
+export PATH=$HOME/.dotnet/tools:$PATH
+``` 
 
-[net core: launchsettings.json config demo](https://github.com/cnfanhua/Q-A/issues/3)
+#### 2、Asp.Net 过滤器执行顺序
+```c
+OnAuthentication
 
-[Asp.Net 过滤器执行顺序](https://github.com/cnfanhua/Q-A/issues/13)
+OnAuthorization
 
-[Error 405 – Methods not Allowed in ASP.NET Core PUT and DELETE requests](https://github.com/cnfanhua/Q-A/issues/14)
+OnActionExecuting
+
+OnActionExecuted
+
+OnResultExecuting
+
+Index
+
+OnResultExecuted
+```
+ 
