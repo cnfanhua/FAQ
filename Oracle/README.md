@@ -1,3 +1,8 @@
+#### 5、Oracle查询表空间路径
+账号登陆之后一次执行如下语句
+```cmd
+select * from dba_data_files
+```
 
 #### 4、Oracle空表和密码过期问题
 sys账号登陆之后一次执行如下语句
